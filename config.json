@@ -84,6 +84,51 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "ffzyapi": {
+      "api": "https://ffzyapi.com/api.php/provide/vod/",
+      "name": "非凡资源",
+      "detail": "https://ffzyapi.com"
+    },
+    "zuidazy": {
+      "api": "https://api.zuidazy.com/api.php/provide/vod/",
+      "name": "最大资源",
+      "detail": "https://zuidazy.com"
+    },
+    "tyys": {
+      "api": "https://tyzyapi.com/api.php/provide/vod/",
+      "name": "天翼资源",
+      "detail": "https://tyzyapi.com"
+    },
+    "tianma": {
+      "api": "https://www.tianmazy.com/api.php/provide/vod/",
+      "name": "天马资源",
+      "detail": "https://tianmazy.com"
+    },
+    "91zy": {
+      "api": "https://api.91mjw.com/api.php/provide/vod/",
+      "name": "91资源站",
+      "detail": "https://91mjw.com"
+    },
+    "ningmeng": {
+      "api": "https://api.nmzyapi.com/api.php/provide/vod/",
+      "name": "柠檬资源站",
+      "detail": "https://nmzyapi.com"
+    },
+    "banana": {
+      "api": "https://api.bananaapi.com/api.php/provide/vod/",
+      "name": "香蕉资源站",
+      "detail": "https://bananaapi.com"
+    },
+    "mitao": {
+      "api": "https://api.mitaoapi.com/api.php/provide/vod/",
+      "name": "蜜桃资源站",
+      "detail": "https://mitaoapi.com"
+    },
+    "yingtao": {
+      "api": "https://api.ytzyapi.com/api.php/provide/vod/",
+      "name": "樱桃资源站",
+      "detail": "https://ytzyapi.com"
     }
   }
 }
