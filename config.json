@@ -89,6 +89,14 @@
       "api": "https://api.hongfanqieapi.com/api.php/provide/vod/",
       "name": "红番茄资源站"
     },
+    "hsckzy": {
+      "api": "https://hsckzy.vip/api.php/provide/vod/",
+      "name": "黄色仓库"
+    },
+    "souavzy": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod/",
+      "name": "搜av资源站"
+    },
     "heimeigui": {
       "api": "https://api.heimeiguiapi.com/api.php/provide/vod/",
       "name": "黑玫瑰资源站"
